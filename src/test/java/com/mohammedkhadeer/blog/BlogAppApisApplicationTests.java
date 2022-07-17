@@ -1,4 +1,4 @@
-package com.codewithdurgesh.blog;
+package com.mohammedkhadeer.blog;
 
 import java.util.List;
 
